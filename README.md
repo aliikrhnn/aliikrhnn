@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 
 I am Junior Software Developer. 
-I am Computer Engineering student.
+I am Computer Engineering student at Isparta of applied sciences universty.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [aliikrhnn@gmail.com](mailto:aliikrhnn@gmail.com)
